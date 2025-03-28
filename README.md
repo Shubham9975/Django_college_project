@@ -52,8 +52,8 @@ Follow the steps below to get the project up and running on your local machine:
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/student-management-system.git
-cd student-management-system
+git clone [https://github.com/yourusername/student-management-system.git](https://github.com/Shubham9975/Django_college_project.git)
+cd Django_college_project
 ```
 
 ### **2. Create a Virtual Environment**
